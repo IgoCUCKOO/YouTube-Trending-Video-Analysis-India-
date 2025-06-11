@@ -1,7 +1,14 @@
-# YouTube-Trending-Video-Analysis-India-
-A data analysis project using the India-specific YouTube Trending dataset.
-This notebook covers:  
-🏆 Top trending video categories and channels  
-⏱️ Time difference between video upload and trending (days_to_trend) 
-☁️ Word cloud from video tags
-📉 Visualizations for views, likes, comments, and engagement
+# 📈 YouTube Trending India Analysis
+
+:contentReference[oaicite:7]{index=7}  
+:contentReference[oaicite:8]{index=8}
+
+## 🔍 Insights Covered
+- :contentReference[oaicite:9]{index=9}
+- :contentReference[oaicite:10]{index=10}
+- :contentReference[oaicite:11]{index=11}
+- :contentReference[oaicite:12]{index=12}
+
+## 🛠️ Tools & Dataset
+- :contentReference[oaicite:13]{index=13} :contentReference[oaicite:14]{index=14}
+- Python, Pandas, Matplotlib, Seaborn, WordCloud
